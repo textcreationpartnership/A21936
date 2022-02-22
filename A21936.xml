@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the restreining and punishment of forestallers, regraters and ingrossers of corne and graine, and for the prohibition of making of any maner of starch, within her Maiesties realme and dominions</title>
+            <title>Proclamations. 1598-08-23</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1598</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21936</idno>
+            <idno type="STC">STC 8265</idno>
+            <idno type="STC">ESTC S115536</idno>
+            <idno type="EEBO-CITATION">99850755</idno>
+            <idno type="PROQUEST">99850755</idno>
+            <idno type="VID">15981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:113)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the restreining and punishment of forestallers, regraters and ingrossers of corne and graine, and for the prohibition of making of any maner of starch, within her Maiesties realme and dominions</title>
+                  <title>Proclamations. 1598-08-23</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1598.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Requiring observance of STC 9202.--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grain trade --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Wheat trade --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15981:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation for the reſtreining and puniſhment of Foreſtallers, Regraters and Ingroſſers of Corne and Graine, and for the prohibition of making of any maner of Search, within her Maieſties Realme and Dominions.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie calling to her princely minde the hie prices and dearth of Corne, which for theſe late yeeres haue bene, and may againe without good order increaſe, to the great impo<g ref="char:EOLhyphen"/>ueriſhment of her Maieſties moſt louing Subiects, if ſome remedy for the preuenting thereof be not therein ſpeedily taken: And her moſt excellent Maieſtie like a moſt carefull &amp; gracious Princeſſe, loo<g ref="char:EOLhyphen"/>king into the cauſes of the high prices and dearth, and finding the ſame for the moſt part not ſo much to grow by the meanes of the vnſeaſonableneſſe &amp; vnfruitfulneſſe of theſe yeeres (wherein God be than<g ref="char:EOLhyphen"/>ked this land hath hitherto bene bleſſed with plenty, as much as any other Countrey of the world be<g ref="char:EOLhyphen"/>ſides) but rather through the wicked and vnſatiable greedineſſe of ſundry bad diſpoſed perſons, who preferring their owne priuate gaine aboue the publike good) doe not onely foreſtall, regrate, and ingroſſe all maner of Graine, and ſo raiſe high prices thereby, to the great oppreſſion of the poorer ſort, but alſo doe waſte and conſume an infinite quantity of corne for the making of Starch, aſwell in all Cities, Townes, &amp; other places thorowout the Realme, as like wiſe euen in pri<g ref="char:EOLhyphen"/>uate houſes, not onely for their owne vſes, but to ſell &amp; make gaine thereof beſides: Which vncharitable and vnchriſtian waſte is ſuch and ſo great, as it would ſuffice to feede a number of people that are like to periſh by the increaſe of dearth that is enforc't thereby: For redreſſe of all which growing and increaſing inconueniences, her Maieſtie by aduice of her Highneſſe priuie councell, did about three yeres paſt publiſh a booke of Orders in print, intituled, <hi>A new charge giuen by the Queenes commande<g ref="char:EOLhyphen"/>ment, &amp;c.</hi> By which Orders, if the ſame had bene well obſerued, not onely the vnmercifull couetouſneſſe of Foreſtallers, Regra<g ref="char:EOLhyphen"/>ters, Ingroſſers, Maulſters, and ſuch like greedie Cormorants, but alſo the exceſſiue and needleſſe waſte and expenſe of Corne in making the ſayde ſtuffe called Starch, and in feeding of Dogges with Corne or Graine meete for the ſuſtenance of man had bene repreſſed and preuented, as by the ſayde Booke amongſt diuers other godly and politike orders more at large appea<g ref="char:EOLhyphen"/>reth: Her Maieſty therefore might for the manifeſt breach of the ſayd Orders in great contempt of her Princely and Royall com<g ref="char:EOLhyphen"/>mandement ſo publiſhed, as aforeſayd, for the common good of her louing Subiects (and ſpecially of the poorer ſort, whoſe caſe her Highneſſe doth moſt graciouſly tender and pity) not onely puniſh the offenders therein, &amp; ſpecially ſuch as ſo contemptuouſly and vnchriſtianly either haue fedde Dogges, or made Starch or ſuch like vaine matter of or with Corne or Graine meete for the ſuſtenance of her poore Subiects, but alſo by their puniſhment might haue reaped great fines and ſummes of mo<g ref="char:EOLhyphen"/>ney for their offence and contempt in that behalfe. Notwithſtanding, her Maieſtie, ſo long as there remaineth any hope of a<g ref="char:EOLhyphen"/>mendment, being moſt inclinable to mercy, hath of her abundant grace and pity thought it fit by her Highneſſe Proclamation, eftſoones to prohibit the inconueniences and diſorders aboueſayd, ſignifying withall her Maieſties expreſſe will and pleaſure, that if all and euery the ſayd offenders ſhall not from hencefoorth deſiſt from their ſayd contempts and diſorders, that then her Maieſtie will ſeuerely chaſtiſe and puniſh ſuch of them heereafter offending, aſwell by fines as by corporall puniſhment, as the quality of ſuch and ſo high offences ſhall deſerue, &amp; not onely for the time to come, but alſo for all the time paſt. And therefore her Market, and all other Officers within their ſeuerall rules, limits and authorities, with all care and diligence to looke to the due and ſtreight execution of all Lawes, Statutes &amp; Proclamations made, and now in force, againſt Foreſtallers, Ingroſſers, and Regraters, and againſt euery of them, and to ſee ſuch Orders duly obſerued, as haue bene deuiſed and ſet forth by her Maieſties Priuy Councell, by her Highneſſe commandement, for the ſeruing of the Markets, and auoiding of ſuch foreſtalling, regrating and other vices tending to raiſe the prices of Corne, and to ſee the offenders in that behalfe chaſtiſed with all ſeuere puniſhment: And her Maieſty doth likewiſe ſtreightly charge and command that no perſon or perſons within this her Highnes Realme and other her Dominions whatſoeuer, whether he be Stranger, Denizen, or ſubiect borne, ſhal from the xx. day of September next comming, imploy, waſte, or expend vpon feeding of Dogs, any Corne or Graine meet for the ſuſtenance of man, nor ſhall by any meanes directly or indirectly make or cauſe to be made within this Realme or any other her Maieſties Dominions any maner of Starch of Corne or graine for any vſe whatſoeuer, nor of any other matter or thing whatſoeuer, to the end to ſell or vtter the ſame in groſſe or by retaile. And her Highnes doth by vertue hereof likewiſe authoriſe &amp; ſtreightly charge &amp; command al Iuſtices of Peace, Maiors, Shirifs, Bailifs, Conſtables, Headboroughs, and all other officers whatſoeuer, to whom it may in any wiſe apperteine, from time to time at conuenient times, and in lawfull &amp; due maner to make diligent ſearch in all places, where they ſhall haue any iuſt cauſe of ſuſpition to finde any ſuch perſon or perſons, as ſhall offend contrary to the true meaning of this her Maieſties Proclamation, or any thing therein conteined, that due execution may be had againſt euery ſuch offender according<g ref="char:EOLhyphen"/>ly, vpon paine of her Maieſties diſpleaſure, and as they will anſwere to the contrary at their vttermoſt perils.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Mannor of Greenwich <date>the xxiii. day of Auguſt 1598, in the xl. yere of her Maieſties reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of <hi>Chriſtopher Barker,</hi> Printer to the <hi>Queenes moſt excellent Maieſtie.</hi> 1598.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
